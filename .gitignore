@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
-**/.idea
-*/GitHubRepository-1.1.2.iml
+/.idea
+/.iml
 
 out/
 !**/src/main/**/out/
